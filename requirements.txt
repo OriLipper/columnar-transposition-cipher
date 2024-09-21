@@ -1,0 +1,3 @@
+
+# Required dependencies for the Columnar Transposition Cipher project
+math
