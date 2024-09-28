@@ -27,7 +27,7 @@ The project is built in Python and can be run via the command line or integrated
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/columnar-transposition-cipher.git
+   git clone https://github.com/OriLipper/columnar-transposition-cipher.git
    ```
 
 2. Navigate into the project directory:
